@@ -6,6 +6,7 @@
 
 ## Feature b
   - b1
+  - b2
 
 ## Feature c
   - c1

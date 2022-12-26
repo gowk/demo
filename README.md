@@ -7,3 +7,4 @@
   - b1
 
 ## Feature c
+  - c1

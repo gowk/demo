@@ -2,6 +2,7 @@
 
 ## Feature a
   - a1
+  - a2
 
 ## Feature b
   - b1
